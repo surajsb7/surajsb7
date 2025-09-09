@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Bobade</h1>
-<h3 align="center">🔍 Passionate Software QA Engineer | Manual & Automation Testing</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">🔍 Software Test Engineer </h3>
 
 ---
 
